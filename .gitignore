@@ -1,0 +1,4 @@
+#ingore csv
+*.csv
+*.text
+
